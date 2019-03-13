@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My favourite places</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_creacion">New</string>
+    <string name="nombre">Name:</string>
+    <string name="categoria">Category:</string>
+    <string name="longitud">Longitude:</string>
+    <string name="latitud">Latitude:</string>
+    <string name="valoracion">Assessment:</string>
+    <string name="comentarios">Comments:</string>
+    <string name="title_activity_modificar">Edit</string>
+    <string name="title_activity_informacion">Info</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="eliminado">Removed successful</string>
+    <string name="creado">Create successful</string>
+    <string name="actualizado">Update successful</string>
+    <string name="seleccione">Select</string>
+</resources>
