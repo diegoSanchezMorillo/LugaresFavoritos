@@ -9,7 +9,7 @@
         app:showAsAction="always" />
 
     <item
-        android:id="@+id/guardar"
+        android:id="@+id/eliminar"
         android:icon="@android:drawable/ic_menu_delete"
         android:title=""
         app:showAsAction="always" />
