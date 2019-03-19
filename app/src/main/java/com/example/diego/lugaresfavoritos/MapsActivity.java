@@ -47,8 +47,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         mMap.setMyLocationEnabled(true);
         con = new LugaresSQLiteHelper(this);
-        proceso = new LugaresDAO();
-        proceso.mostrarLugaresMarcadores(con);
+        
+        
 
 
         for(int x=0;x<lugares.size();x++){
